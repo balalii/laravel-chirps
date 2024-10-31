@@ -2,8 +2,6 @@
 
 Laravel Chirps is the final Laravel Bootcamp project where I used Laravel with InertiaJS.
 
-Its idea is to be a project where I put my ideas and it is shared with other users, notifying them as soon as a new idea is published on the site.
-
 
 ## Stack used
 
