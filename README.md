@@ -7,7 +7,7 @@ Laravel Chirps is the final Laravel Bootcamp project where I used Laravel with I
 
 **Front-end:** InertiaJS, Vite, TailwindCSS
 
-**Back-end:** Laravel, Laravel Sail and Laravel Breeze
+**Back-end:** Laravel,  and Laravel Breeze
 
 
 ## Installation
